@@ -17,3 +17,5 @@ I'm interested in web development, UX/UI design, game development and multimedia
 
 ### 🔗 Links
 - [itch.io](https://klaarko.itch.io/)
+
+Also my CV is on here, just for good measure :)
